@@ -1,5 +1,5 @@
 # LT_Project
-Currency convertor 
+Currency converter 
 Compilation steps :
        yacc -d currency.y
        lex currency.l
